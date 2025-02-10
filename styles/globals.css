@@ -1,0 +1,22 @@
+/* styles/globals.css */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
